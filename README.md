@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Fabiche10/Fabiche10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Bonjour à tous !
+### Bonjour à tous !
 
-Bienvenue sur mon profil Github ! 👋
+#### Bienvenue sur mon profil Github ! 👋
